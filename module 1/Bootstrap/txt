@@ -1,0 +1,10 @@
+Bootstrap folder structure:
+
+1. CSS folder:
+Contains Bootstrap CSS files used for styling webpages like layout, colors, buttons and responsive design.
+
+2. JS folder:
+Contains JavaScript files used for interactive components like modals, dropdowns, alerts and carousel.
+
+3. Icons folder:
+Contains Bootstrap icon files used to add symbols and icons in webpages.
